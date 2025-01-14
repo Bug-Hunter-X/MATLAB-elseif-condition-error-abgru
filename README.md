@@ -1,0 +1,2 @@
+# MATLAB elseif Condition Bug
+This repository demonstrates a common error in MATLAB involving the use of `elseif` conditions. The `myFunction.m` file contains a function with a flaw in its logic. When the input `x` is equal to 10, it falls outside both the `if` and `elseif` conditions, resulting in an unexpected output. The `myFunctionSolution.m` file provides the corrected version of the function.
